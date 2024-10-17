@@ -1,0 +1,9 @@
+Para correr los tests con 'npm run test'
+se debe modificar el archivo package.json en la linea que dice scripts y dejarlo asi:
+Suponiendo que el test que queremos ejecutar con este comando se llama TestElements.spec.js
+
+"scripts": {
+    "testElements": "npx playwright test TestElements.spec.js"
+  },
+
+Luego correr el comando asi: npm run testElements

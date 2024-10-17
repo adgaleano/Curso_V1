@@ -1,0 +1,19 @@
+{
+  "name": "demo-qa-playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test1": "npx playwright test TestFormUser.spec.js",
+    "testElements": "npx playwright test TestElements.spec.js",
+    "testForms": "npx playwright test TestForms.spec.js",
+    "testBrowserWindows": "npx playwright test TestAlertsFrameWindows.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.14.2"
+  }
+}
