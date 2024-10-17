@@ -7,3 +7,10 @@ Suponiendo que el test que queremos ejecutar con este comando se llama TestEleme
   },
 
 Luego correr el comando asi: npm run testElements
+
+
+Comandos git:
+Para inicializar > git init
+Para agregar > git add .
+Para commitear > git commit -m "Comentario del commit"
+Para ver el estado > git status
