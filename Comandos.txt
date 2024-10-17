@@ -14,3 +14,4 @@ Para inicializar > git init
 Para agregar > git add .
 Para commitear > git commit -m "Comentario del commit"
 Para ver el estado > git status
+Para ver el historico de lo que commiteamos > git log
