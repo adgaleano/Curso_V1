@@ -15,3 +15,10 @@ Para agregar > git add .
 Para commitear > git commit -m "Comentario del commit"
 Para ver el estado > git status
 Para ver el historico de lo que commiteamos > git log
+Para recuperar archivos borrados > git checkout -- .
+
+subir codigo a GitHub
+git remote add origin https://github.com/adgaleano/Curso_V1.git
+git branch -M main
+git push -u origin main 
+(Autorizar)
