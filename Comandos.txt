@@ -16,6 +16,7 @@ Para commitear > git commit -m "Comentario del commit"
 Para ver el estado > git status
 Para ver el historico de lo que commiteamos > git log
 Para recuperar archivos borrados > git checkout -- .
+Para subir mi codigo en el repositorio github > git push
 
 subir codigo a GitHub
 git remote add origin https://github.com/adgaleano/Curso_V1.git
